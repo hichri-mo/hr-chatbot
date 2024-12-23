@@ -68,4 +68,6 @@ Receive instant feedback and insights about your resume.
 # Exemple
 
 <img width="960" alt="pdf_agent" src="https://github.com/user-attachments/assets/8e3a7895-1093-47bf-a655-b141862ca7ec" />
+<img width="960" alt="Cp-agentp2" src="https://github.com/user-attachments/assets/18770441-54ac-4dc5-953f-722a9365b42a" />
+
 
