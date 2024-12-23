@@ -64,3 +64,8 @@ demo.launch(debug=True)
 Upload your resume or paste the content into the assistant's interface.
 
 Receive instant feedback and insights about your resume.
+
+# Exemple
+
+<img width="960" alt="pdf_agent" src="https://github.com/user-attachments/assets/8e3a7895-1093-47bf-a655-b141862ca7ec" />
+
